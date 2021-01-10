@@ -25,7 +25,6 @@ repositories {
 }
 
 dependencies {
-    val kotlinVersion = "1.4.21"
     val querydslVersion = "4.3.1"
 
     // spring initializer
